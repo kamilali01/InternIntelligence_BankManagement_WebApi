@@ -47,5 +47,3 @@ The project follows a **multi-layered architecture**:
 - RESTful API principles
 
 ---
-
-## 📁 Project Structure
